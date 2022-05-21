@@ -18,6 +18,7 @@ B6: Build và chạy chương trình.
 Phần II: Mô tả chung về trò chơi
 
 - Game chiến đấu với quái vật, người chơi sử dụng các phím mũi tên để di chuyển và phím D để tấn công, phím F để lướt.
+- Link mô tả trò chơi: https://youtu.be/8B1sdTfWesk
 
 Phần III: Các chức năng đã cài đặt
 
