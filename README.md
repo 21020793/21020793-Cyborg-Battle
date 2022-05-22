@@ -7,14 +7,14 @@ TÊN DỰ ÁN : CYBORG BATTLE
 
 Phần I: Hướng dẫn cài đặt
 
-B1: Cài đặt visual studio, tải project cyborgbattle về máy.
-B2: Tạo một project c++ rỗng, sau đó tạo main.cpp sau đó copy main của project vào main.cpp vừa tạo.
-B3: Tải các thư viện cần thiết của SDL2 về máy và giải nén (SDL2_image, SDL2, SDL2_tff, SDL2_mixer).
-B4: Liên kết tất cả thư viện với project visual studio vừa tạo theo hướng dẫn: https://www.youtube.com/watch?v=7nkKVyt0DsY.
-B5: Copy các file.cpp và file.h của cyborgbattle vào project vừa liên kết thư viện (patse vào phần solution explorer). 
+- Cài đặt visual studio, tải project cyborgbattle về máy.
+- Tạo một project c++ rỗng, sau đó tạo main.cpp sau đó copy main của project vào main.cpp vừa tạo.
+- Tải các thư viện cần thiết của SDL2 về máy và giải nén (SDL2_image, SDL2, SDL2_tff, SDL2_mixer).
+- Liên kết tất cả thư viện với project visual studio vừa tạo theo hướng dẫn: https://www.youtube.com/watch?v=7nkKVyt0DsY.
+- Copy các file.cpp và file.h của cyborgbattle vào project vừa liên kết thư viện (patse vào phần solution explorer). 
     Tiếp tục patse vào phần file folder của project mới tạo.
     Copy và patse phần res vào trong thư mục debug.
-B6: Build và chạy chương trình.
+- Build và chạy chương trình.
 
 Phần II: Mô tả chung về trò chơi
 
