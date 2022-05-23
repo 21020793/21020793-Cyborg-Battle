@@ -9,7 +9,7 @@ Phần I: Hướng dẫn cài đặt
 
 - Cài đặt visual studio, tải project cyborgbattle về máy.
 - Tạo một project c++ rỗng, sau đó tạo main.cpp sau đó copy main của project vào main.cpp vừa tạo.
-- Tải các thư viện cần thiết của SDL2 về máy và giải nén (SDL2_image, SDL2, SDL2_tff, SDL2_mixer).
+- Tải các thư viện cần thiết của SDL2 về máy và giải nén (SDL2_image, SDL2, SDL2_ttf, SDL2_mixer).
 - Liên kết tất cả thư viện với project visual studio vừa tạo theo hướng dẫn: https://www.youtube.com/watch?v=7nkKVyt0DsY.
 - Copy các file.cpp và file.h của cyborgbattle vào project vừa liên kết thư viện (paste vào phần solution explorer). 
     Tiếp tục paste vào phần file folder của project mới tạo.
